@@ -135,13 +135,40 @@ nav{
     font-weight: lighter;
 }
 .sec3{
-    /* background-color: orange; */
+    font-family: 'Nunito', sans-serif;
+    padding:0 120px;
+    float:right;
+    background-color: #deccd32f;
     width: 100%;
 }
-.sec3 img{
-    width: 40%;
+.sec3 h2{
+    /* margin: 500px; */
+    float: right;
+    padding: 100px 0 30px 800px;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: lighter;
 }
+
+.box{
+    color: black;
+
+    /* padding-top: 150px;
+    margin: 0 120px 0 120px; */
+}
+
+
+.sec3 img{
+    /* float: left; */
+    background-color: white;
+    margin: 50px;
+    /* box-shadow: 2px 2px rgba(0, 0, 0, 0.295); */
+    /* border-style: double; */
+    width: 25%;
+    height: 250px;
+}
+
 .sec4{
-    background-color: purple;
+    /* background-color: purple; */
     width: 100%;
 }
